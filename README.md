@@ -12,7 +12,7 @@ Add a box assuming the head part of the page and logo images in it.
 ### Step3:
 Add a box with buttons as a navigation buttons.
 ## Step4:
-Add a table and a Calendar.
+Add a table and a Blank box.
 ## Step5:
 Add a Text for home page and About us page and for photo gallery page add image boxes.
 
