@@ -17,9 +17,9 @@ Add a table and a Calendar.
 Add a Text for home page and About us page and for photo gallery page add image boxes.
 
 ## OUTPUT:
-![Github Logo](home1.png)
-![Github Logo](events.png)
-![Github Logo](about.png)
+![Github Logo](home1.jpeg)
+![Github Logo](events.jpeg)
+![Github Logo](about.jpeg)
 
 
 ## Result:
