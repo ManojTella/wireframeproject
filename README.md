@@ -12,7 +12,7 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-![Github Logo](wire1.png)
+![Github Logo](Wire1.png)
 
 
 ## Result:
