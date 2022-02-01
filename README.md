@@ -12,7 +12,7 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![Github Logo](wire1.png)
 
 
 ## Result:
