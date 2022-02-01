@@ -5,14 +5,21 @@ To design a wire frame for a website.
 
 ## DESIGN STEPS:
 
-### Step 1:
-Write your design steps here 
-
+## Step 1:
+Resize the canvas as per the requirement.
 ### Step 2:
-Write your design steps here
+Add a box assuming the head part of the page and logo images in it.
+### Step3:
+Add a box with buttons as a navigation buttons.
+## Step4:
+Add a table and a Calendar.
+## Step5:
+Add a Text for home page and About us page and for photo gallery page add image boxes.
 
 ## OUTPUT:
-![Github Logo](Wire1.png)
+![Github Logo](home1.png)
+![Github Logo](events.png)
+![Github Logo](about.png)
 
 
 ## Result:
